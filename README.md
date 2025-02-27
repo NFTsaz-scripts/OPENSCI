@@ -32,6 +32,24 @@ npm install
 ```
 
 3. Create configuration files:
+
+```bash
+nano pk.txt
+```
+پرایوت کی را وارد کنید و بعد :
+ctrl + x
+y
+enter
+اگر پروکسی ام دارید میتونید این اضافه کنید :
+```bash
+nano proxies.txt
+```
+پرایوت کی را وارد کنید و بعد :
+ctrl + x
+y
+enter
+
+------------------------------------------------------------
    - `pk.txt`: Add your private keys (one per line)
    - `proxies.txt`: (Optional) Add your proxies (one per line)
 
