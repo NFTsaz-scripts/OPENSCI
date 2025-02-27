@@ -22,8 +22,8 @@ Automated bot for OpenSCI token claiming and voting on Base Sepolia testnet. Thi
 
 1. Clone the repository
 ```bash
-git clone https://github.com/airdropinsiders/OpenSCI-Auto-Bot.git
-cd OpenSCI-Auto-Bot
+git clone https://github.com/NFTsaz-scripts/OPENSCI.git
+cd OPENSCI
 ```
 
 2. Install dependencies
