@@ -2,7 +2,7 @@
     "name": "opensci-auto-bot",
     "version": "1.0.0",
     "description": "Automated bot for OpenSCI token claiming and voting on Base Sepolia testnet",
-    "main": "index.js",
+    "main": "bot.js",
     "scripts": {
       "start": "node bot.js",
       "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +19,7 @@
       "sepolia",
       "airdrop"
     ],
-    "author": "Airdrop Insiders",
+    "author": "NFTSAZ",
     "license": "MIT",
     "bugs": {
       "url": ""
